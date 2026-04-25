@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'Kasm Ensecit',
     description: 'Kasm supported workspaces for Ensecit.',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/xdream101im/kasm-registry/',
+    listUrl: 'https://xdream101im.github.io/kasm-registry/1.1/',
     contactUrl: 'https://github.com/xdream101im/kasm-registry/issues',
   },
   reactStrictMode: true,
